@@ -1,21 +1,5 @@
 # Team project reflection
 
-The purpose of this individual report
-is to give you an avenue to present your viewpoint
-as to how the project went,
-how the group worked together,
-and your role in the group.
-Each group member must complete this form
-to report on the contributions of **yourself** and the other group members.
-That information can be used to adjust final grades of individuals,
-if needed.
-This is a private report,
-meaning that none of your classmates will see your submission.
-
-For each of the sections below,
-evaluate each member of your group by writing the number
-that best reflects the extent to which they participated,
-prepared, helped the group excel, and was a team player.
 Use the following ratings:
 
 | Rating | Description                             |
@@ -25,19 +9,6 @@ Use the following ratings:
 | 2      | Sometimes (less than half the time)     |
 | 1      | Rarely (never or once in a great while) |
 
-## 0. Submission
-
-- Please fill out this document and push it to your repo before the deadline.
-- On canvas, submit a link to the rendered version of this document at your latest commit before the deadline.
-    - Your URL should look something like this `https://github.ubc.ca/MDS-2020-21/<YOUR_CWL>/blob/<COMMIT_SHA>/teamwork-reflection.md`.
-    - In order to get this URL follow these steps (you might already know this, but since it is good general knowledge I am repeating it here):
-        - Click your md file on GitHub.
-        - Click the latest commit sha in the top right (or "History" if you want an older commit).
-        - Click the three dots and "View file".
-        - Copy the URL.
-    - This video shows the process:
-
-        ![](https://media.github.ubc.ca/user/1751/files/bb762480-6b80-11eb-94df-9d5178a45b9a)
 
 ## 1. Preparation
 
@@ -48,10 +19,10 @@ Use the following ratings:
 - Attends and is on time to group meetings and presentations
 
 | Group member name | Preparation rating |
-|-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
+|:-------------------:|:--------------------:|
+|          Nyx Zhang         |        4            |
+|        Yuhong Chen           |         4           |
+|           Tia Wang        |         4           |
 
 ## 2. Participation & communication
 
@@ -61,10 +32,10 @@ Use the following ratings:
 - Encourages others to talk
 
 | Group member name | Participation & communication rating |
-|-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+|:-------------------:|:--------------------------------------:|
+|            Nyx Zhang       |                4                      |
+|           Yuhong Chen        |               4                       |
+|     Tia Wang              |                  4                    |
 
 ## 3. Helps group excel
 
@@ -75,10 +46,10 @@ Use the following ratings:
 - Stays motivated from beginning to end of project
 
 | Group member name | Helps group excel rating |
-|-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+|:-------------------:|:--------------------------:|
+|      Nyx Zhang             |           4               |
+|        Yuhong Chen           |         4                 |
+|     Tia Wang              |            4              |
 
 ## 4. Team player (cooperation)
 
@@ -89,10 +60,10 @@ Use the following ratings:
 - Respects others
 
 | Group member name | Team player (cooperation) rating |
-|-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
+|:-------------------:|:----------------------------------:|
+|        Nyx Zhang           |           4                       |
+|        Yuhong Chen           |         4                         |
+|         Tia Wang          |            4                      |
 
 Below,
 briefly describe the specific contributions each team member
@@ -102,7 +73,16 @@ Specifically,
 comment on the following areas:
 
 - How the team worked together as a whole, including:
-    - What was your role in the group?
-      That is, what sort of things did you do to contribute to the evolution of the project?
-    - What were the roles of others in your group?
-- What went well and poorly throughout the team project experience?
+1. What was your role in the group?That is, what sort of things did you do to contribute to the evolution of the project?
+    
+Our dash has three pages, I am responsible for the code writing and drawing ideas for the artist page. Besides that, I am also responsible for the heroku deployment of all pages.
+
+2. What were the roles of others in your group?
+    
+Nyx was responsible for the track page, in addition to writing the team's reflections and other documents. yuhong was responsible for writing the lyric page and the overall framework of the interface. It can be said that our group's tasks are very evenly distributed.
+
+3. What went well and poorly throughout the team project experience?
+
+The process of determining the analysis topic was quickly agreed upon, with each member taking a keen interest in music analysis, and actively communicating out a very specific application scenario.In order to take advantage of teamwork, others actively cooperate with the discussion and help debug when it comes to some difficulties encountered. In addition to each person being responsible for an analysis page, other extra tasks were distributed almost equally, such as overall layout code, deployment code, etc.
+
+70% of the time spent on data wrangling and cleaning for some similar ditto problems.Debug caused more time than we expected: Multiple modules, such as plotly, altair, pandas and CSS, HTML are used to implemented. There happened failures due to version adaptation differences among those modules.
